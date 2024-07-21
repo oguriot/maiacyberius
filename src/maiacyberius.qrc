@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/qrc_icons">
+        <file>icons/MAIA_icon.png</file>
+        <file>icons/MAIA_icon_About.png</file>
+        <file>icons/MAIA_icon_Currency.png</file>
+        <file>icons/MAIA_icon_Help.png</file>
+        <file>icons/MAIA_icon_Lauch.png</file>
+        <file>icons/MAIA_icon_Poste.png</file>
+        <file>icons/MAIA_icon_Ppm.png</file>
+        <file>icons/MAIA_icon_Print.png</file>
+        <file>icons/MAIA_icon_Quit.png</file>
+        <file>icons/MAIA_Splash_Cyberius.png</file>
+        <file>icons/MAIA_icon_Stop.png</file>
+    </qresource>
+    <qresource prefix="/qrc_transl">
+        <file>po/cyberius_fr.qm</file>
+    </qresource>
+</RCC>
